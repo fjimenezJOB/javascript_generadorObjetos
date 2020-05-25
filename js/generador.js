@@ -37,6 +37,11 @@ function objectGenerator() {
         var anyo = anyos[random];
         var color = colores[random];
 
+
+
+
+        
+
         objetos.push(new coche(marca, modelo, anyo, color));
     }
 
